@@ -1,5 +1,6 @@
 borsch
 soup
+czaj
 pampushki
 salo
 Indiana Jones
@@ -14,3 +15,5 @@ utuuti
 548489584
 trtrioutro
 jhhg
+tatuszka
+
