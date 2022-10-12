@@ -1,5 +1,6 @@
 borsch
 soup
+kasza
 pampushki
 salo
 Indiana Jones
@@ -9,3 +10,4 @@ Think about programming
 This is a local repository
 1111
 222
+4545
