@@ -5,4 +5,7 @@ salo
 Indiana Jones
 Sherlock Homes and Doctor Watson
 Love and Thunder
-
+Think about programming
+This is a local repository
+1111
+222
